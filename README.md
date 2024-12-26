@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Christo!
 
 Welcome to my GitHub profile! I'm a **Web3 Developer** passionate about building decentralized applications, smart contracts, and innovative blockchain solutions.
 
