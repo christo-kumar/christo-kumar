@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Christo!  
 Welcome to my GitHub profile!  
-I'm a **Developer** passionate about building innovative, scalable, robust, and sustainable software solutions, keenly learning Web 3.0 these days. I have:  
+I'm a **Developer** passionate about building innovative, scalable, robust, and sustainable software solutions, keenly learning Web 3.0 these days.
+I have:  
 
 1. **Comprehensive 14 years of industry experience** in developing client-side components.  
 2. **End-to-end experience** in development and distribution of native mobile, cross-platform, and web applications.  
@@ -32,13 +33,10 @@ I'm a **Developer** passionate about building innovative, scalable, robust, and 
 ---
 
 ## 🎓 **Education**
-- 🎓 **[Your Degree]**, [Your Major]  
-  [Your University], [Year of Graduation]
-
-- 📜 Certifications:  
-  - [Ethereum Developer Certificate](link-to-certificate)
-  - [Blockchain Basics by Coursera](link-to-certificate)
-
+- 🎓 **B.E**, Fire and Safety  
+  RGPV Bhopal, 2005
+- 🎓 **PG-Dac**, Advanced Computing  
+  MET Bandra, 2006
 ---
 
 ## 💼 **Experience**
