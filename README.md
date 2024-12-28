@@ -1,8 +1,41 @@
 # 👋 Hello, I'm Christo!
+Welcome to my GitHub profile! 
+I'm a **Developer** passionate about building innovative, scaleable, robust and sustainable software solutions, keenly learning web 3.0 these days. I have :-
 
-Welcome to my GitHub profile! I'm a **Web3 Developer** passionate about building decentralized applications, smart contracts, and innovative blockchain solutions.
+Comprehensive 14 years of industry experience in developing client-side components.
 
----
+End to end experience in development and distribution of native mobile, cross-platform, and web applications.
+
+Hands-on work experience in iOS, React Native, and React development.
+
+Excellent programming skills with Swift, Objective C, Java and Javascript.
+
+Executed multiple roles and responsibilities as a Developer, Team Lead, Consultant, and Architect.
+
+Worked for multiple clients across various domains like - Health, Inventory, Telecom, Banking, Insurance, and Sports.
+
+Experienced in creating apps with the highest security standards for the medical and banking domain.
+
+Strong experience in delivering and supporting apps with millions of downloads.
+
+Ability to create, lead and mentor jovial team with high performance.
+
+Experience in setting up development processes for the execution of agile sprints.
+
+Strong understanding of the entire development stack and system architecture.
+
+Good grasp of backend architectures like microservices, monoliths, etc.
+
+Good understanding of non-functional aspects of the system like availability, scalability, usability, and performance.
+
+Ability to coordinate with multiple teams and stakeholders for seamless resolution of tasks and dependencies.
+
+Expertise in writing robust and loosely coupled code by using design patterns and SOLID design principles.
+
+Hands-on experience in Test-driven development along with Protocol oriented programming.
+
+Technology enthusiast always looking to learn, explore and leverage cutting edge technologies.
+
 
 ## 🧑‍💻 **About Me**
 - 🔭 Currently working on: Full-Stack Web3 projects
