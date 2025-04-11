@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Christo!  
 Welcome to my GitHub profile!  
-I'm a **Developer** passionate about building innovative, scalable, robust, and sustainable software solutions, keenly learning Web 3.0 these days.
+I'm a **Developer** passionate about building innovative, scalable, robust, and sustainable software solutions, keenly learning AI(computer vision), Web 3.0 these days.
 I have:  
 
 1. **Comprehensive 14 years of industry experience** in developing client-side components.  
