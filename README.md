@@ -5,7 +5,7 @@ I have:
 
 1. **Comprehensive 14 years of industry experience** in developing client-side components.  
 2. **End-to-end experience** in development and distribution of native mobile, cross-platform, and web applications.  
-3. **Hands-on work experience** in iOS, React Native, and React development.  
+3. **Hands-on work experience** in Native iOS, React Native, and React development.  
 4. **Excellent programming skills** with Swift, Objective-C, Java, and JavaScript.  
 5. **Executed multiple roles** and responsibilities as a Developer, Team Lead, Consultant, and Architect.  
 6. Worked for multiple clients across various domains like Health, Inventory, Telecom, Banking, Insurance, and Sports.  
